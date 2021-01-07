@@ -1,0 +1,1 @@
+The sketch has similar to the one found on https://wiki.hal9k.dk/projects/kamstrup, but modified slightly since it gave an "CRC error". For some reason it reads some extra 0xFF bytes before the start mark (0x40) and they had to be removed.
